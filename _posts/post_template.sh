@@ -23,7 +23,7 @@ echo "Enter title:"
 read PHRASE
 echo "You entered $PHRASE"
 
-echo "Enter categories: (Analysis, Goals, Processing, Protocols)"
+echo "Enter categories: (Data, Methods, Update, Misc.)"
 read PHRASE2
 echo "You entered $PHRASE2"
 
