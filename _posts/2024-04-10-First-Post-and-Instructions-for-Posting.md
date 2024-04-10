@@ -47,9 +47,9 @@ e.g. [marine biochem](https://www.marinebiochemresearch.com/)
 
 some text and [here is possible to download the file in CSV][1]
 
-[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/data/example_data.csv
+[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/_data/example_data.csv
 
-*note: when linking to a file, you need to upload it to the folder labelled 'data' first.*
+*note: when linking to a file, you need to upload it to the folder labelled '_data' first.*
 *another note: in the code, keep the download text & link lines separated by at least one empty line*  
 
 If you want to post a picture, first, upload the photo to the folder labelled 'images'   
