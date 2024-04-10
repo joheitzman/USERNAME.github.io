@@ -91,11 +91,9 @@ some text and [here is possible to download the file][1]
 Or, maybe you want an embed PDF within your post
 Then, just adjust the path in the code below to contain your file within the folder 'files'
 
-
-<object data="https://github.com/LizaRoger/LizaRoger.github.io/files/GitHub_ELN_paper.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-
+<object data="{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 ## The best way to see this post is to look at it within GitHub - Preview/Code.
+
 ## I personally use notepad++ to work with HTML and Jekyll, but feel free to use any software you're familiar with
