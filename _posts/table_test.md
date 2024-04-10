@@ -1,5 +1,6 @@
 ---
-title: Table test
+layout: Table Test
+title: Table Test
 ---
 
 <table>
