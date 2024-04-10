@@ -59,6 +59,10 @@ Then it can be accessed by using the following code with your filename at the en
 
 
 
+# Converting CSV files to tables
+1. first, input your csv file into the folder labelled _data
+2. then, format the first line of the code below with your filename in the place of 'example_data'
+
  {% assign table_rows = site.data.example_data %}
 
   <table>
@@ -81,3 +85,4 @@ Then it can be accessed by using the following code with your filename at the en
 
 
 ## The best way to see this post is to look at it within GitHub - Preview/Code.
+## I personally use notepad++ to work with HTML and Jekyll, but feel free to use any software you're familiar with
