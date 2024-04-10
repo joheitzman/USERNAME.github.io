@@ -39,8 +39,8 @@ There are several different ways to add flair to your entry:
 
 # = Big Title using "#"
 ## = Subtitle using "##"
-**bolded text within double asterisks ("**")**  
-*italicized text within single asterisks("*")*
+**bolded text within double asterisks**  
+*italicized text within single asterisks*
 
 [tag/website name](link)
 e.g. [marine biochem](https://www.marinebiochemresearch.com/)
@@ -59,7 +59,25 @@ Then it can be accessed by using the following code with your filename at the en
 
 
 
+ {% assign table_rows = site.data.example_data %}
 
+  <table>
+      {% for row in table_rows %}
+          {% if forloop.first %}
+              <tr>
+                  {% for pair in row %}
+                      <th>
+                          {{ pair[0] }}
+                      </th>
+                  {% endfor %}
+              </tr>
+          {% endif %}
+
+          {% tablerow pair in row %}
+              {{ pair[1] }}
+          {% endtablerow %}
+      {% endfor %}
+  </table>
 
 
 ## The best way to see this post is to look at it within GitHub - Preview/Code.
