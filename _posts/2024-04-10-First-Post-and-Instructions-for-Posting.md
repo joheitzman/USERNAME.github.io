@@ -52,10 +52,14 @@ some text and [here is possible to download the file in CSV][1]
 *note: when linking to a file, you need to upload it to the folder labelled 'data' first.*
 *another note: in the code, keep the download text & link lines separated by at least one empty line*  
 
-If you want to post a picture, first, upload the photo to the folder labelled 'images'
-Then it can be accessed like this:
+If you want to post a picture, first, upload the photo to the folder labelled 'images'   
+Then it can be accessed by using the following code with your filename at the end:  
 
 <img src="{{ https://github.com/LizaRoger/LizaRoger.github.io }}/images/stock_chemist.jpg">
+
+
+
+
 
 
 ## The best way to see this post is to look at it within GitHub - Preview/Code.
