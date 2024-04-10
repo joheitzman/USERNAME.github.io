@@ -23,7 +23,7 @@ This is normal text
 3. So that they're ordered
 **This is another form of title**
 
-[My Data](https://github.com/LizaRoger/LizaRoger.github.io/data/test.csv)
+[My Data](https://github.com/LizaRoger/LizaRoger.github.io/data/data.csv)
 
 Data 1	|Data 2	| Blank
 ---|---|---
@@ -31,7 +31,16 @@ Data 1	|Data 2	| Blank
 
 some text and [here is possible to download the file in CSV][1]
 
-[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/data/test.csv
+[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/data/data.csv
 
 
-site.data.<<data.csv>>.content
+$(document).ready(function () {
+$("#my-table > table").DataTable();
+});
+
+<table>
+</table>
+
+<script>
+$(https://github.com/LizaRoger/LizaRoger.github.io/data/data.csv)
+</script>
