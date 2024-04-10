@@ -36,6 +36,6 @@ There are several different ways to add flair to your entry:
 [tag/website name](link)
 e.g. [marine biochem](https://www.marinebiochemresearch.com/)
 
-[you can download this file here][1]
-[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/data/example_data.csv
-*note: when linking to a file, you need to upload it to the folder labelled 'data' first.
+some text and [here is possible to download the file in CSV][1]
+[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/_data/example_data.csv
+*note: when linking to a file, you need to upload it to the folder labelled '_data' first.
