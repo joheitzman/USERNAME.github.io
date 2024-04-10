@@ -16,16 +16,16 @@ You will be prompted to write down:
 
 Your page will then look like this:
 
----
-layout: post
-title: 'your title here'
-date: '2024-04-10'
-categories: 'your categories here'
-tags: 'your tags here'
----
+*---
+*layout: post
+*title: 'your title here'
+*date: '2024-04-10'
+*categories: 'your categories here'
+*tags: 'your tags here'
+*---
 
-Your notebook entry will come after this section.
-There are several different ways to add flair to your entry:
+Your notebook entry will come after this section.  
+There are several different ways to add flair to your entry:  
 * = bulletpoint
 1., 2., 3., = numbered list/bulletpoint
 
@@ -37,6 +37,6 @@ There are several different ways to add flair to your entry:
 e.g. [marine biochem](https://www.marinebiochemresearch.com/)
 
 some text and [here is possible to download the file in CSV][1]
-
+---keep this empty line between---
 [1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/data/example_data.csv
 *note: when linking to a file, you need to upload it to the folder labelled 'data' first.
