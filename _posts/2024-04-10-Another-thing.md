@@ -51,7 +51,7 @@ some text and [here is possible to download the file in CSV][1]
 
     $.ajax({
         type: "GET",
-        url: {{ https://github.com/LizaRoger/LizaRoger.github.io }}/data/test.csv,
+        url: https://github.com/LizaRoger/LizaRoger.github.io/data/test.csv,
         success: function (data) {
             $('body').append(arrayToTable(Papa.parse(data).data));
         }
