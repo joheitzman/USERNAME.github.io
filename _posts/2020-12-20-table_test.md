@@ -9,7 +9,7 @@ tags:[raw_data]
 
 
 
-<table>
+<script><table>
   {% for row in Name.Date.Thing.Comment %}
     {% if forloop.first %}
     <tr>
@@ -23,4 +23,4 @@ tags:[raw_data]
       {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
-</table>
+</table></script>
