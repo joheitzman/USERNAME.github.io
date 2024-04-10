@@ -23,7 +23,7 @@ This is normal text
 3. So that they're ordered
 **This is another form of title**
 
-[My Data](https://github.com/LizaRoger/LizaRoger.github.io/data/data.csv)
+[My Data](https://github.com/LizaRoger/LizaRoger.github.io/_data/data.csv)
 
 Data 1	|Data 2	| Blank
 ---|---|---
@@ -31,16 +31,16 @@ Data 1	|Data 2	| Blank
 
 some text and [here is possible to download the file in CSV][1]
 
-[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/data/data.csv
+[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/_data/data.csv
 
 
-$(document).ready(function () {
-$("#my-table > table").DataTable();
-});
+<div class="datatable-begin"></div>
 
-<table>
-</table>
+Food    | Description                           | Category | Sample type
+------- | ------------------------------------- | -------- | -----------
+Apples  | A small, somewhat round ...           | Fruit    | Fuji
+Bananas | A long and curved, often-yellow ...   | Fruit    | Snow
+Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
+Oranges | A spherical, orange-colored sweet ... | Fruit    | Navel
 
-<script>
-$(https://github.com/LizaRoger/LizaRoger.github.io/data/data.csv)
-</script>
+<div class="datatable-end"></div>
