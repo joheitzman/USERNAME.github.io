@@ -42,12 +42,10 @@ There are several different ways to add flair to your entry:
 **bolded text within double asterisks**  
 *italicized text within single asterisks*
 
+Below is if you want to link something from the internet
+
 [tag/website name](link)
 e.g. [marine biochem](https://www.marinebiochemresearch.com/)
-
-some text and [here is possible to download the file in CSV][1]
-
-[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/_data/example_data.csv
 
 *note: when linking to a file, you need to upload it to the folder labelled '_data' first.*
 *another note: in the code, keep the download text & link lines separated by at least one empty line*  
@@ -82,6 +80,21 @@ Then it can be accessed by using the following code with your filename at the en
           {% endtablerow %}
       {% endfor %}
   </table>
+
+For file accession and downloads, first, upload your file to the folder labelled 'files'  
+Then, adjust the code below to include your filename and it should now be a download link
+
+some text and [here is possible to download the file][1]
+
+[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf
+
+Or, maybe you want an embed PDF within your post
+Then, just adjust the path in the code below to contain your file within the folder 'files'
+
+
+<object data="https://github.com/LizaRoger/LizaRoger.github.io/files/GitHub_ELN_paper.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+
 
 
 ## The best way to see this post is to look at it within GitHub - Preview/Code.
