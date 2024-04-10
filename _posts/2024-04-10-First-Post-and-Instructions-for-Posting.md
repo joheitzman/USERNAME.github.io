@@ -16,13 +16,13 @@ You will be prompted to write down:
 
 Your page will then look like this:
 
-  ---
-  layout: post
-  title: 'your title here'
-  date: '2024-04-10'
-  categories: 'your categories here'
-  tags: 'your tags here'
-  ---
+---  
+layout: post  
+title: 'your title here'  
+date: '2024-04-10'  
+categories: 'your categories here'  
+tags: 'your tags here'  
+---  
 
 Your notebook entry will come after this section.  
 To add spacing between lines, you can either have an empty line on both sides of the sentence, or just add a double-space at the end/beginning  
@@ -32,8 +32,8 @@ There are several different ways to add flair to your entry:
 
 # = Big Title
 ## = Subtitle
-**bolded text within double asterisks**
-*single asterisk*
+**bolded text within double asterisks**  
+*italicized text within single asterisks*
 
 [tag/website name](link)
 e.g. [marine biochem](https://www.marinebiochemresearch.com/)
