@@ -34,7 +34,7 @@ There are several different ways to add flair to your entry:
 2. just some text
 3. and some more text
 
-```if you want to highlight something, you can place your text within three apostrophes```
+```placing text between three apostrophes changes its appearance```
 
 
 # = Big Title using "#"
@@ -54,11 +54,8 @@ some text and [here is possible to download the file in CSV][1]
 
 If you want to post a picture, first, upload the photo to the folder labelled 'images'
 Then it can be accessed like this:
+
 ![Stock Photo Chemist](https://github.com/LizaRoger/LizaRoger.github.io/images/stock_chemist.jpg)
 
 
-
-
-
-
-```The best way to see this post is to look at it within GitHub - Preview/Code.```
+##The best way to see this post is to look at it within GitHub - Preview/Code.
