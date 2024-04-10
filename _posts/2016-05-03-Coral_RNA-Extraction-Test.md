@@ -2,7 +2,7 @@
 layout: post
 title: RNA Extraction Protocol
 date: '2016-05-03'
-categories: Protocols
+categories: Methods
 tags: [RNA]
 ---
 
