@@ -23,7 +23,7 @@ This is normal text
 3. So that they're ordered
 **This is another form of title**
 
-[My Data](data/test.csv)
+[My Data](https://github.com/LizaRoger/LizaRoger.github.io/data/test.csv)
 
 Data 1	|Data 2	| Blank
 ---|---|---
