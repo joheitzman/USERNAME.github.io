@@ -1,10 +1,14 @@
 ---
 layout: page
-title: Marine BioChem Lab - Dr. Liza Roger
+title: Marine BioChem Lab (or whatever you want) - YOURNAME
 permalink: /about/
 ---
 
-Some information about the lab and whatnot.
+You can put whatever within here
+
+e.g. personal bio, CV, published manuscripts
+
+Treat this ABOUT page as your own personal webpage if you currently don't have one
 
 ### More Information
 
@@ -12,8 +16,8 @@ Other information!
 
 ### Contact me
 
-[lroger@asu.edu](mailto:lroger@asu.edu)
-[Orcid](https://orcid.org/0000-0003-2274-8311)
-[GitHub](https://github.com/LizaRoger)
-[ResearchGate](https://www.researchgate.net/profile/Liza-Roger-2)
-[Twitter](https://twitter.com/ocean_keshi)
+[lroger@asu.edu](mailto:your_email@asu.edu)
+[Orcid](https://orcid.org/your_orcid_ID)
+[GitHub](https://github.com/your_username)
+[ResearchGate](https://www.researchgate.net/profile/your_username)
+[Twitter](https://twitter.com/your_handle)
