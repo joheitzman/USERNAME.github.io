@@ -92,7 +92,7 @@ Or, maybe you want an embed PDF within your post
 Then, just adjust the path in the code below to contain your file within the folder 'files'
 
 
-<embed src="{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf" width = 1000 height 500>
+<embed src="{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf" width = 1000 height = 500>
 
 
 
