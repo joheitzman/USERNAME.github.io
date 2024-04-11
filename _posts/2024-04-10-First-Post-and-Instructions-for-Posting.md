@@ -56,7 +56,6 @@ Then it can be accessed by using the following code with your filename at the en
 <img src="{{ https://github.com/LizaRoger/LizaRoger.github.io }}/images/stock_chemist.jpg">
 
 
-
 # Converting CSV files to tables
 1. first, input your csv file into the folder labelled _data
 2. then, format the first line of the code below with your filename in the place of 'example_data'
@@ -80,13 +79,6 @@ Then it can be accessed by using the following code with your filename at the en
           {% endtablerow %}
       {% endfor %}
   </table>
-
-For file accession and downloads, first, upload your file to the folder labelled 'files'  
-Then, adjust the code below to include your filename and it should now be a download link
-
-some text and [here is possible to download the file][1]
-
-[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf
 
 
 
