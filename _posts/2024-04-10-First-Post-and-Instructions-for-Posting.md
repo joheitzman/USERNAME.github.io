@@ -80,6 +80,12 @@ Then it can be accessed by using the following code with your filename at the en
       {% endfor %}
   </table>
 
+For file accession and downloads, first, upload your file to the folder labelled 'files'  
+Then, adjust the code below to include your filename and it should now be a download link
+
+some text and [here is possible to download the file][1]
+
+[1]:{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf
 
 
 ## The best way to see this post is to look at it within GitHub - Preview/Code.
