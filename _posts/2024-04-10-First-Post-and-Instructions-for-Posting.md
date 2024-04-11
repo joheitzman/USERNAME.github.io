@@ -91,7 +91,8 @@ some text and [here is possible to download the file][1]
 Or, maybe you want an embed PDF within your post
 Then, just adjust the path in the code below to contain your file within the folder 'files'
 
-<embed src="{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf">
+{% pdf "{{ https://github.com/LizaRoger/LizaRoger.github.io }}/files/GitHub_ELN_paper.pdf" %}
+
 
 
 
