@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Liza Roger
+name: Marine BioChem Research
 
 # Short bio or description (displayed in the header)
-description: Lab Notebook
+description: Lab Notebook for Roger Lab
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://images.squarespace-cdn.com/content/v1/6399bfe36194c516e055a675/4c239dd1-8aaa-49f2-9221-df50726e3635/Lab+logo.png
@@ -21,12 +21,12 @@ footer-links:
   email: lroger@asu.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: LizaRoger/LizaRoger.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: oceankeshi
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
